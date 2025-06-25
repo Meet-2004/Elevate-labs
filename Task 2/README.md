@@ -1,1 +1,1 @@
-
+It's a java file for student management system with this code user can add student and write his/her name,id number and marks also user can view the all student detail which present in this and also update it delete it 
