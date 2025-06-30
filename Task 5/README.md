@@ -1,1 +1,1 @@
-
+It's a java code for Banksimulation with the help of this project user can create their account and after account was created user can see account detail view their balance deposite/withdraw money and view transaction history also.
